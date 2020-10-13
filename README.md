@@ -1,4 +1,6 @@
-# day001
+# Day001
+## App View
+<img src="https://github.com/krishnadeveloper/flutter100days/blob/day001/appview.png" height="300">
 
 A new Flutter project.
 
